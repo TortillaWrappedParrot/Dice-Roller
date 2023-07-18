@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Source_Control_Practice\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj": {}
+    "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Dice-Roller\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Source_Control_Practice\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj": {
+    "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Dice-Roller\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Source_Control_Practice\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj",
+        "projectUniqueName": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Dice-Roller\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj",
         "projectName": "DieRollerLecture",
-        "projectPath": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Source_Control_Practice\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj",
+        "projectPath": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Dice-Roller\\DieRollerLecture\\DieRollerLecture\\DieRollerLecture.csproj",
         "packagesPath": "C:\\Users\\parro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Source_Control_Practice\\DieRollerLecture\\DieRollerLecture\\obj\\",
+        "outputPath": "C:\\Users\\parro\\OneDrive\\Documents\\GitHub\\Dice-Roller\\DieRollerLecture\\DieRollerLecture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
