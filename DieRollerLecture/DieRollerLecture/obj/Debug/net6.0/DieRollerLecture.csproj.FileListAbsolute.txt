@@ -1,0 +1,15 @@
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\bin\Debug\net6.0\DieRollerLecture.exe
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\bin\Debug\net6.0\DieRollerLecture.deps.json
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\bin\Debug\net6.0\DieRollerLecture.runtimeconfig.json
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\bin\Debug\net6.0\DieRollerLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\bin\Debug\net6.0\DieRollerLecture.pdb
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.csproj.AssemblyReference.cache
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.AssemblyInfoInputs.cache
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.AssemblyInfo.cs
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.csproj.CoreCompileInputs.cache
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\refint\DieRollerLecture.dll
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.pdb
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\DieRollerLecture.genruntimeconfig.cache
+C:\Users\parro\OneDrive\Documents\GitHub\Dice-Roller\DieRollerLecture\DieRollerLecture\obj\Debug\net6.0\ref\DieRollerLecture.dll
